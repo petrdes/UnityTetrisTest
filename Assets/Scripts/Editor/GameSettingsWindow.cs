@@ -134,7 +134,6 @@ public class GameSettingsWindow : EditorWindow {
 				counter = 0;
 			}
 		}
-
 		GUI.color = Color.white;
               
 		if(mFinishedLayout.HasValue && !mFinishedLayout.Value)
